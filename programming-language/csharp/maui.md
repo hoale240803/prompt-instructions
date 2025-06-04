@@ -6,10 +6,6 @@ applyTo: "**/*.cs, **/*.xaml"
 
 Apply the [general coding guidelines](./csharp.md) to all code.
 
-## General Standards
-
-- Follow the General C# Coding Standards for core coding practices, error handling, dependency injection, data access, logging, testing, documentation, security, and performance.
-
 ## Application Design
 
 - Use `dotnet new maui` as the base template

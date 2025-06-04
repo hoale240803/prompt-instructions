@@ -4,6 +4,8 @@ applyTo: "**"
 
 # Project Coding Standards for ASP.NET Core Microservice with Domain-Driven Design (DDD)
 
+Apply the [general coding guidelines](./csharp.md) to all code.
+
 ## Application Design
 
 - Use `dotnet new webapi` as the base for each microservice.

@@ -4,6 +4,8 @@ applyTo: "**"
 
 # Project Coding Standards for WPF Desktop Application
 
+Apply the [general coding guidelines](./csharp.md) to all code.
+
 ## Application Design
 
 - Use `dotnet new wpf` as the base template.
