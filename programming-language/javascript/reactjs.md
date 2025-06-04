@@ -1,5 +1,5 @@
 ---
-applyTo: "**"
+applyTo: "**/.ts, **/.js, **/.html, **/.css, **/*.scss"
 ---
 
 # React.js Coding Standards
