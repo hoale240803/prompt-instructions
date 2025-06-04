@@ -99,7 +99,7 @@ MyApiProject/
 
 ## Documentation
 
-- Enable Swagger with `Swashbuckle.AspNetCore`
+- Enable Swagger with `Swashbuckle.AspNetCore` or ``Scalar.AspNetCore`
 - Use XML comments for controllers and DTOs
 
 ## Security
