@@ -4,8 +4,6 @@ applyTo: "**/*.cs"
 
 # Project Coding Standards for C# and .NET
 
-Apply the [official .NET coding conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) to all C# code.
-
 ## Naming Conventions
 
 - Use **PascalCase** for class names, methods, public properties, and constants
