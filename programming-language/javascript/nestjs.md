@@ -1,5 +1,5 @@
 ---
-applyTo: "**"
+applyTo: "**/.ts, **/.js"
 ---
 
 # NestJS Coding Standards
