@@ -1,3 +1,7 @@
+---
+applyTo: "**/.js"
+---
+
 # General JavaScript Coding Standards
 
 ## Code Practices
