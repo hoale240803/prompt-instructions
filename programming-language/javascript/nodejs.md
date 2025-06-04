@@ -4,6 +4,8 @@ applyTo: "**"
 
 # General Node.js Coding Standards
 
+Apply the [general coding guidelines](./js.md) to all code.
+
 ## Code Practices
 
 - Use `const` for variables that won't be reassigned; use `let` for variables that will.
